@@ -1,4 +1,4 @@
 const hello=()=>{
-    console.log("hello world js!!");
+    console.log("hello world  java script js!!");
 }
 hello();
